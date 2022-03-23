@@ -1,4 +1,5 @@
 {
-    "client-id": "your client id here",
-    "out": "downloads/"
+    "client_id": "CLIENT ID",
+    "client_secret": "CLIENT SECRET",
+    "grant_type": "client_credentials"
 }
